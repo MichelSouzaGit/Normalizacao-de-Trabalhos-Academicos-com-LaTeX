@@ -5,7 +5,7 @@ Repositório destinado a disponibilizar o material do curso de Normalização de
 
 **Coloque no Preâmbulo do seu documento**
 
-\documentclass [a4paper, 12pt]{article} % define o documento como artigo de papel tamanho A4 e tamanho de fonte 12
+'\documentclass [a4paper, 12pt]{article} % define o documento como artigo de papel tamanho A4 e tamanho de fonte 12'
 
 \usepackage[utf8]{inputenc} % permite o uso de acentuação
 
