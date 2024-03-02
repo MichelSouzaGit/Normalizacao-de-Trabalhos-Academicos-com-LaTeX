@@ -29,9 +29,9 @@ Repositório destinado a disponibilizar o material do curso de Normalização de
 
 **Coloque no Preâmbulo do seu documento**
 
-\usepackage{identfirst} % faz com que todos os parágrafos sejam devidamente identados
+\usepackage{indentfirst} % faz com que todos os parágrafos sejam devidamente identados
 
-**Obs.: ** Naturalmente, um documento LaTeX tem formatações de parágrafo com espaçamento de 1,5 cm entre linhas e de identação
+**Obs.: **Naturalmente, um documento LaTeX tem formatações de parágrafo com espaçamento de 1,5 cm entre linhas e de identação
 
 ### Formatação de texto: Negrito, Itálico e Sublinhado
 
