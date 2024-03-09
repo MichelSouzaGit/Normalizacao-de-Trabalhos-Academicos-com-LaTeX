@@ -13,7 +13,7 @@
 
 **Na árvore de arquivos. no Overleaf (parte esquerda), clique em "novo arquivo"**
 
-Em seguida, nomei o arquivo da seguinte forma: 
+Em seguida, defina o nome do arquivo como: 
 
 ```
 referencias.bib
