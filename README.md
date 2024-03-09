@@ -12,7 +12,7 @@ Repositório destinado a disponibilizar o material do curso de Normalização de
 
 \usepackage[brazil]{babel} % deixa o documento em pt-br
 
-\usepackage[t1]{fontenc} % para copiar e colar de outras fontes sem maiores problemas
+\usepackage[T1]{fontenc} % para copiar e colar de outras fontes sem maiores problemas
 
 \usepackage{amsmath, amsthm, amsfonts, amssymb, dsfont, mathtools} % pacotes matemáticos
 
@@ -36,7 +36,7 @@ Repositório destinado a disponibilizar o material do curso de Normalização de
 ```
 \usepackage{indentfirst} % faz com que todos os parágrafos sejam devidamente identados
 ```
-**Obs.: **Naturalmente, um documento LaTeX tem formatações de parágrafo com espaçamento de 1,5 cm entre linhas e de identação
+**Obs.:** Naturalmente, um documento LaTeX tem formatações de parágrafo com espaçamento de 1,5 cm entre linhas e de identação
 
 ### Formatação de texto: Negrito, Itálico e Sublinhado
 
