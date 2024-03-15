@@ -18,4 +18,4 @@
 \end{table}
 ```
 
-**Obs.:** Se você não tem familiaridade em trabalhar com tabelas ![Clique aqui]{https://www.tablesgenerator.com/#} para visitar um site que gera tabelas LaTeX para você
+**Obs.:** Se você não tem familiaridade em trabalhar com tabelas acesse <https://www.tablesgenerator.com/#> para visitar um site que gera tabelas LaTeX para você
