@@ -22,3 +22,13 @@ referencias.bib
 Clique em criar, e pronto!
 
 **Obs.: Esse é um padrão usado para nomear o arquivo de referências. É nele que ficarão os trabalhos que você irá citar ao longo do seu Projeto de Pesquisa.**
+
+# **Preparações para a terceira Aula**
+
+## Comandos Necessários
+
+**Coloque no preâmbulo do seu documento**
+
+```
+\usepackage{float} % permite manipular posicionamento de figuras e tabelas
+```
