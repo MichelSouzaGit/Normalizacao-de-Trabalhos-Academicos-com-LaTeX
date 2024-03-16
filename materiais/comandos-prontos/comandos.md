@@ -31,4 +31,5 @@ Clique em criar, e pronto!
 
 ```
 \usepackage{float} % permite manipular posicionamento de figuras e tabelas
+\usepackage{colortbl} % para cores em tabelas
 ```
