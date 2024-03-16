@@ -16,7 +16,7 @@ Repositório destinado a disponibilizar o material do curso de Normalização de
 
 \usepackage{amsmath, amsthm, amsfonts, amssymb, dsfont, mathtools} % pacotes matemáticos
 
-\usepackage{graphicx, xcolor, multirow, multicol} % para trabalhar com imagens e tabelas
+\usepackage[table, xcdraw]{graphicx, xcolor, multirow, multicol} % para trabalhar com imagens e tabelas
 ```
 
 ## Formatações Inicias de Página, Parágrafo e Texto
